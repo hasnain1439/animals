@@ -1,0 +1,644 @@
+
+@media screen and (min-width:962px) and (max-width: 1024px) {
+    h1 {
+        font-size: 57px;
+    }
+    
+    h2 {
+        font-size: 30px;
+    }
+    
+    h3 {
+        font-size: 25px;
+        text-transform: capitalize;
+        line-height: 1.4;
+    }
+    
+    h4 {
+        font-size: 1.2rem;
+        text-transform: uppercase;
+        font-weight: 900;
+    }
+    
+    h5 {
+        font-size: 16px;
+        font-weight: 300 !important;
+    }
+    
+    span {
+        display: block;
+        margin-bottom: 16px;
+        color: #ED6436;
+        text-transform: uppercase;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 1.5;
+        margin-top: 10px;
+    }
+    p{
+        font-size: 16px;
+    }
+    a{
+        font-size: 14px;
+    }
+    
+    .card-p{
+        justify-content: center;
+    }
+    .card-p .col-3 img{
+        width: 50px;
+        height: 50px;
+    }
+    .card-p  .col-3{
+        margin-right:10px;
+    }
+    .gray-c{
+        flex-basis:32% !important;
+    }
+    .overlap-orange{
+        top: 0;
+        width: 35%;
+        left: 28%;
+    }
+}
+@media screen and (min-width:768px) and (max-width: 962px){
+    h1 {
+        font-size: 50px;
+    }
+    
+    h2 {
+        font-size: 30px;
+    }
+    
+    h3 {
+        font-size: 25px;
+        text-transform: capitalize;
+        line-height: 1.4;
+    }
+    
+    h4 {
+        font-size: 1.2rem;
+        text-transform: uppercase;
+        font-weight: 900;
+    }
+    
+    h5 {
+        font-size: 16px;
+        font-weight: 300 !important;
+    }
+    
+    span {
+        display: block;
+        margin-bottom: 16px;
+        color: #ED6436;
+        text-transform: uppercase;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 1.5;
+        margin-top: 10px;
+    }
+    p{
+        font-size: 16px;
+    }
+    a{
+        font-size: 14px;
+    }
+    .nav-link{
+        display: none;
+    }
+    .icon{
+        display: block;
+    }
+    .body{
+        margin-top: 10%;
+    } 
+    .body .col-5{
+        flex-basis: 100% !important;
+        padding-right: 5%;
+    }
+    .body .col-7{
+        flex-basis: 100% !important;
+    }
+    .card-p{
+        justify-content: center;
+    }
+    .card-p .col-3 img{
+        width: 50px;
+        height: 50px;
+    }
+    .card-p  .col-3{
+        flex-basis: 47% !important;
+        margin:10px;
+    }
+    .dog .col-6{
+        flex-basis: 100% !important;
+    }
+    .dog .righta{
+        margin-left: 5%;
+    }
+ 
+    .act-card {
+        justify-content: center;
+    }
+    .act-card .col-4{
+        flex-basis: 47% !important;
+        margin: 10px;
+    }
+
+    .circle-c{
+        flex-basis: 47% !important;
+        margin: 10px;
+    }
+    .gray-c{
+        flex-basis:60% !important;
+    }
+    .gray-cards{
+        justify-content: center;
+    }
+    .overlap-orange{
+        width: 65%;
+        position: relative;
+        left: 0;
+        
+        margin: 10px auto 20px auto;
+    }
+    .offer-c .col-6{
+        flex-basis: 49% !important;
+    }
+    .step-d{
+        justify-content: center !important;
+    }
+    .step-d .col-4{
+        flex-basis: 47% !important;
+    }
+    .team-c{
+        justify-content: center;
+    }
+    .team-c .col-4{
+        flex-basis: 47% !important;
+    }
+    .adition .col-5{
+        flex-basis: 100% !important;
+        padding-right: 5%;
+    }
+    .adition .col-7{
+        flex-basis: 100% !important;
+    }
+    .add-dog  .col-5{
+        flex-basis: 100% !important;
+        padding-left: 5%;
+    }
+    .add-dog  .col-7{
+        flex-basis: 100% !important;
+    }
+    .form .col-5{
+        flex-basis: 100% !important;
+        margin-right: 5%;
+    }
+    .form .col-6{
+        flex-basis: 100% !important;
+    }
+    .map .col-8{
+        flex-basis: 100% !important;
+    }
+    .map{
+        justify-content: center;
+    }
+    .map .col-3{
+        flex-basis: 50% !important;
+    }
+    .map .col-3 .main1{
+        padding-left: 5%;
+    }
+    footer{
+        justify-content: center;
+    }
+    footer .col-3{
+        flex-basis: 47% !important;
+        justify-content: center !important;
+    }
+}
+@media screen and (min-width:481px) and (max-width: 768px) {
+    h1 {
+        font-size: 40px;
+    }
+    
+    h2 {
+        font-size: 30px;
+    }
+    
+    h3 {
+        font-size: 25px;
+        text-transform: capitalize;
+        line-height: 1.4;
+    }
+    
+    h4 {
+        font-size: 1.2rem;
+        text-transform: uppercase;
+        font-weight: 900;
+    }
+    
+    h5 {
+        font-size: 16px;
+        font-weight: 300 !important;
+    }
+    
+    span {
+        display: block;
+        margin-bottom: 16px;
+        color: #ED6436;
+        text-transform: uppercase;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 1.5;
+        margin-top: 10px;
+    }
+    p{
+        font-size: 16px;
+    }
+    a{
+        font-size: 14px;
+    }
+    .body{
+        margin-top: 15%;
+        justify-content: center;
+        text-align: center;
+    }
+    .icon{
+        display: block;
+    }
+    .nav-link{
+        display: none;
+    }
+    .body-icon{
+        justify-content: center !important;
+        flex-basis: 100%;
+        flex-direction: column;
+    }
+    .body-icon .col-3{
+        align-items: baseline !important;
+        justify-content: center !important;
+        flex-basis: 100% !important;
+    }
+    .body-btn{
+        justify-content: center;
+        flex-basis: 100%;
+    }
+    .body .col-5{
+        flex-basis: 100% !important;
+        padding-right: 5%;
+    }
+    .body .col-7{
+        flex-basis: 100% !important;
+    }
+    .card-p{
+        justify-content: center;
+    }
+    .card-p .col-3 img{
+        width: 50px;
+        height: 50px;
+    }
+    .card-p  .col-3{
+        flex-basis: 100% !important;
+        margin:10px;
+        text-align: center !important;
+    }
+    .card-text{
+        text-align: center;
+    }
+    .dog{
+        justify-content: center;
+        text-align: center;
+    }
+    .dog .col-6{
+        flex-basis: 100% !important;
+    }
+    .dog .righta{
+        margin-left: 5%;
+    }
+    .acitivity{
+        justify-content: center;
+        text-align: center;
+    }
+    .acitivity-t span{
+        text-align: center;
+    }
+    .acitivity-t{
+        margin-top: 10% !important;
+        flex-direction: column;
+        text-align: center;
+        gap: 10px;
+    }
+    .act-card {
+        justify-content: center;
+    }
+    .act-card .col-4{
+        flex-basis: 100% !important;
+        margin: 10px;
+    }
+    .circle-c{
+        flex-basis: 100% !important;
+        margin: 10px;
+    }
+    .step-d img{
+        width: 50%;
+    } 
+    .gray-c{
+        flex-basis:85% !important;
+    }
+    .gray-cards{
+        justify-content: center;
+    }
+    .overlap-orange{
+        width: 90%;
+        position: relative;
+        left: 0;
+        margin: 10px auto 20px auto;
+    }
+    .offer-c .col-6{
+        flex-basis: 100% !important;
+    }
+    .step-d{
+        justify-content: center !important;
+        flex-direction: column;
+    }
+    .step-d .col-4{
+        flex-basis: 100% !important;
+        flex-direction: column;
+        text-align: center;
+    }
+    .team-c{
+        justify-content: center;
+    }
+    .team-c .col-4{
+        flex-basis: 100% !important;
+    }
+    .adition .col-5{
+        flex-basis: 100% !important;
+        text-align: center;
+        padding-right: 5%;
+        margin-top: 10%;
+    }
+    .adition .col-7{
+        flex-basis: 100% !important;
+    }
+    .add-dog  .col-5{
+        flex-basis: 100% !important;
+        padding-left: 5%;
+        text-align: center;
+    }
+    .add-dog  .col-7{
+        flex-basis: 100% !important;
+    }
+    .form .col-5{
+        flex-basis: 100% !important;
+        margin-right: 5%;
+    }
+    .form .col-6{
+        flex-basis: 100% !important;
+    }
+    .map .col-8{
+        flex-basis: 100% !important;
+    }
+    .map{
+        justify-content: center;
+    }
+    .map .col-3{
+        flex-basis: 50% !important;
+    }
+    .map .col-3 .main1{
+        padding-left: 5%;
+    }
+    footer{
+        justify-content: center;
+    }
+    footer .col-3{
+        margin-left: 20%;
+        flex-basis: 70% !important;
+        text-align: center !important;
+        justify-content: center !important;
+        margin-top: 5%;
+    }
+   
+}
+@media screen and (min-width:320px) and (max-width: 481px) {
+    h1 {
+        font-size: 32px;
+    }
+    
+    h2 {
+        font-size: 24px;
+    }
+    
+    h3 {
+        font-size: 20px;
+        text-transform: capitalize;
+        line-height: 1.4;
+    }
+    
+    h4 {
+        font-size: 1.2rem;
+        text-transform: uppercase;
+        font-weight: 900;
+    }
+    
+    h5 {
+        font-size: 14px;
+        font-weight: 300 !important;
+    }
+    
+    span {
+        display: block;
+        margin-bottom: 16px;
+        color: #ED6436;
+        text-transform: uppercase;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 1.5;
+        margin-top: 10px;
+    }
+    p{
+        font-size: 12px;
+    }
+    a{
+        font-size: 14px;
+    }
+    .body{
+        margin-top: 20%;
+        justify-content: center;
+        text-align: center;
+    }
+    .icon{
+        display: block;
+    }
+    .nav-link{
+        display: none;
+    }
+    .body-icon{
+        justify-content: center !important;
+        flex-basis: 100%;
+        flex-direction: column;
+    }
+    .body-icon .col-3{
+        align-items: baseline !important;
+        justify-content: center !important;
+        flex-basis: 100% !important;
+    }
+    .body-btn{
+        justify-content: center;
+        flex-basis: 100%;
+    }
+    .body .col-5{
+        flex-basis: 100% !important;
+        padding-right:40px;
+    }
+    .body .col-7{
+        flex-basis: 100% !important;
+    }
+    .card-p{
+        justify-content: center;
+    }
+    .card-p .col-3 img{
+        width: 50px;
+        height: 50px;
+    }
+    .card-p  .col-3{
+        flex-basis: 100% !important;
+        margin:10px;
+    }
+    .dog{
+        justify-content: center;
+        text-align: center;
+    }
+    .dog .col-6{
+        flex-basis: 100% !important;
+    }
+    .dog .righta{
+        margin-left: 5%;
+    }
+    .acitivity{
+        justify-content: center;
+        text-align: center;
+    }
+    .acitivity-t span{
+        text-align: center;
+    }
+    .acitivity-t{
+        flex-direction: column;
+        text-align: center;
+        margin-top: 15% !important;
+        gap: 10px;
+    }
+    .act-card {
+        justify-content: center;
+    }
+    .act-card .col-4{
+        flex-basis: 100% !important;
+        margin: 10px;
+    }
+
+    .circle-c{
+        flex-basis: 100% !important;
+        margin: 10px;
+    }
+    .gray-c{
+        flex-basis:100% !important;
+    }
+    .gray-cards{
+        justify-content: center;
+    }
+    .overlap-orange{
+        width: 100%;
+        position: relative;
+        left: 0;
+        margin: 10px auto 20px auto;
+    }
+    .offer-c .col-6{
+        flex-basis: 100% !important;
+    }
+    .step-d{
+        justify-content: center !important;
+        flex-direction: column;
+    }
+    .step-d .col-4{
+        flex-basis: 100% !important;
+        flex-direction: column;
+        text-align: center;
+    }
+    .step-d .col-4 img{
+        width: 50%;
+    }
+    .add-icon .col-4{
+        flex-basis: 100% !important;
+        flex-direction: column;
+    }
+    .add-icon .col-4 img{
+        width: 50px;
+        height: 50px;
+    }
+    .team-c{
+        justify-content: center;
+    }
+    .team-c .col-4{
+        flex-basis: 100% !important;
+    }
+    .adition .col-5{
+        flex-basis: 100% !important;
+        text-align: center;
+        padding-right: 40px;
+    }
+    .adition .col-7{
+        flex-basis: 100% !important;
+    }
+    .comment{
+        width: 100%;
+        padding:0 40px;
+    }
+    .add-dog  .col-5{
+        flex-basis: 100% !important;
+        padding-left: 40px;
+        text-align: center;
+    }
+    .add-dog  .col-7{
+        flex-basis: 100% !important;
+    }
+    .form .col-5{
+        flex-basis: 100% !important;
+        margin-right: 5%;
+    }
+    .form .col-6{
+        flex-basis: 100% !important;
+    }
+    .map .col-8{
+        flex-basis: 100% !important;
+    }
+    .map{
+        justify-content: center;
+    }
+    .map .col-3{
+        flex-basis: 80% !important;
+    }
+    .map .col-3 .main1{
+        padding-left: 5%;
+    }
+    footer{
+        justify-content: center;
+    }
+    footer .col-3{
+        margin-left: 20%;
+        flex-basis: 90% !important;
+        text-align: center !important;
+        justify-content: center !important;
+        margin-top: 5%;
+    }
+    .o-btn{
+        padding: 7px 7px ;
+        font-size:13px ;
+    }
+    .t-btn{
+        padding: 0px 10px ;
+        font-size:13px ;
+    }
+   
+}
